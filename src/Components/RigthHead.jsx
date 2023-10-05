@@ -2,7 +2,7 @@ import React from "react";
 
 export default function RigthHead() {
   return (
-    <div className='w-full h-[9rem]  border-b border-[gray] '>
+    <div className='w-full h-[22%]  border-b border-[gray] '>
       <header className='w-full   pt-3'>
         <div className='info flex flex-row justify-between items-center'>
           <div className='flex flex-row gap-8 justify-center items-center'>
