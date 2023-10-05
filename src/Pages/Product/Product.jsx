@@ -8,9 +8,6 @@ export default function Product() {
   return (
     <>
     <div className='w-full   h-full mt-4 overflow-auto flex flex-row flex-wrap gap-12'>
-    {/* {Data&&Data.map((item)=>{
-      <Card title={item.projectName} college={item.collegeName}/>
-    })} */}
     <Card/>
     <Card/>
     <Card/>
