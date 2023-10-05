@@ -1,0 +1,112 @@
+[
+  {
+    "projectName": "Online Library Management System",
+    "collegeName": "ABC College of Engineering",
+    "description": "A web-based application to manage library resources and services.",
+    "image": "https://example.com/images/library.png",
+    "pdfLink": "https://example.com/pdfs/library.pdf",
+    "videoLink": "https://example.com/videos/library.mp4",
+    "pptLink": "https://example.com/ppts/library.pptx",
+    "name": "John Doe",
+    "id": "123456"
+  },
+  {
+    "projectName": "E-commerce Website",
+    "collegeName": "XYZ University",
+    "description": "An online marketplace for buying and selling goods.",
+    "image": "https://example.com/images/ecommerce.png",
+    "pdfLink": "https://example.com/pdfs/ecommerce.pdf",
+    "videoLink": "https://example.com/videos/ecommerce.mp4",
+    "pptLink": "https://example.com/ppts/ecommerce.pptx",
+    "name": "Bob Johnson",
+    "id": "345678"
+  },
+  {
+    "projectName": "Weather App",
+    "collegeName": "PQR Institute of Technology",
+    "description": "A mobile application to display weather information for a given location.",
+    "image": "https://example.com/images/weather.png",
+    "pdfLink": "https://example.com/pdfs/weather.pdf",
+    "videoLink": "https://example.com/videos/weather.mp4",
+    "pptLink": "https://example.com/ppts/weather.pptx",
+    "name": "Tom Smith",
+    "id": "567890"
+  },
+  {
+    "projectName": "Online Food Ordering System",
+    "collegeName": "LMN College of Engineering",
+    "description": "A web-based application to order food from local restaurants.",
+    "image": "https://example.com/images/food.png",
+    "pdfLink": "https://example.com/pdfs/food.pdf",
+    "videoLink": "https://example.com/videos/food.mp4",
+    "pptLink": "https://example.com/ppts/food.pptx",
+    "name": "David Kim",
+    "id": "234567"
+  },
+  {
+    "projectName": "Fitness Tracker",
+    "collegeName": "UVW University",
+    "description": "A mobile application to track fitness goals and progress.",
+    "image": "https://example.com/images/fitness.png",
+    "pdfLink": "https://example.com/pdfs/fitness.pdf",
+    "videoLink": "https://example.com/videos/fitness.mp4",
+    "pptLink": "https://example.com/ppts/fitness.pptx",
+    "name": "Alex Wong",
+    "id": "456789"
+  },
+  {
+    "projectName": "Online Quiz System",
+    "collegeName": "LMN College of Engineering",
+    "description": "A web-based application to create and take quizzes.",
+    "image": "https://example.com/images/quiz.png",
+    "pdfLink": "https://example.com/pdfs/quiz.pdf",
+    "videoLink": "https://example.com/videos/quiz.mp4",
+    "pptLink": "https://example.com/ppts/quiz.pptx",
+    "name": "Chris Lee",
+    "id": "678901"
+  },
+  {
+    "projectName": "Social Media Platform",
+    "collegeName": "ABC College of Engineering",
+    "description": "A web-based application to connect with friends and share content.",
+    "image": "https://example.com/images/social.png",
+    "pdfLink": "https://example.com/pdfs/social.pdf",
+    "videoLink": "https://example.com/videos/social.mp4",
+    "pptLink": "https://example.com/ppts/social.pptx",
+    "name": "Mike Johnson",
+    "id": "789012"
+  },
+  {
+    "projectName": "Online Banking System",
+    "collegeName": "PQR Institute of Technology",
+    "description": "A web-based application to manage bank accounts and transactions.",
+    "image": "https://example.com/images/banking.png",
+    "pdfLink": "https://example.com/pdfs/banking.pdf",
+    "videoLink": "https://example.com/videos/banking.mp4",
+    "pptLink": "https://example.com/ppts/banking.pptx",
+    "name": "Tom Lee",
+    "id": "901234"
+  },
+  {
+    "projectName": "Online Ticket Booking System",
+    "collegeName": "XYZ University",
+    "description": "A web-based application to book tickets for events and shows.",
+    "image": "https://example.com/images/ticket.png",
+    "pdfLink": "https://example.com/pdfs/ticket.pdf",
+    "videoLink": "https://example.com/videos/ticket.mp4",
+    "pptLink": "https://example.com/ppts/ticket.pptx",
+    "name": "John Kim",
+    "id": "012345"
+  },
+  {
+    "projectName": "Online Course Management System",
+    "collegeName": "UVW University",
+    "description": "A web-based application to manage courses and assignments.",
+    "image": "https://example.com/images/course.png",
+    "pdfLink": "https://example.com/pdfs/course.pdf",
+    "videoLink": "https://example.com/videos/course.mp4",
+    "pptLink": "https://example.com/ppts/course.pptx",
+    "name": "David Chen",
+    "id": "234567"
+  }
+]

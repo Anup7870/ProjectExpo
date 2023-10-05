@@ -27,7 +27,7 @@ export default function Left() {
               <span className='flex  items-center justify-center w-8 h-8 bg-gray-300 rounded-lg drop-shadow-lg'>
                 <FolderSharedIcon />
               </span>
-             Projects
+           <Link to="/project">Projects</Link>  
             </div>
             <div className='item flex flex-row items-center gap-4'>
               <span className='flex  items-center justify-center w-8 h-8 bg-gray-300 rounded-lg drop-shadow-lg'>
