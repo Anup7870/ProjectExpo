@@ -1,8 +1,7 @@
-// npm install @mui/material @emotion/react @emotion/styled
-// npm install @mui/material @mui/styled-engine-sc styled-components
-
 import React,{useState} from 'react'
 import Card from "../../Components/Card"
+
+import Data from "../../Data.json"
 
 export default function Product() {
   const [value, setValue] = useState(2);
