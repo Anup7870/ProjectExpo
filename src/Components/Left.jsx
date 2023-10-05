@@ -1,5 +1,5 @@
 import React from "react";
-import SpaceDashboardOutlinedIcon from "@mui/icons-material/SpaceDashboardOutlined";
+
 import SpaceDashboardIcon from "@mui/icons-material/SpaceDashboard";
 import FolderSharedIcon from "@mui/icons-material/FolderShared";
 import AddBoxIcon from "@mui/icons-material/AddBox";

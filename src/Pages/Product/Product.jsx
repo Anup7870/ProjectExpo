@@ -3,7 +3,7 @@
 
 import React,{useState} from 'react'
 import Card from "../../Components/Card"
-import Data from "../../Data.json"
+
 export default function Product() {
   const [value, setValue] = useState(2);
   return (

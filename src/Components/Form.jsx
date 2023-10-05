@@ -3,7 +3,7 @@ import Autocomplete from "@mui/material/Autocomplete";
 import Stack from "@mui/material/Stack";
 import React, { useState } from "react";
 import Dropzone from "react-dropzone";
-import Viewer from "react-viewer";
+
 // import '@react-pdf-viewer/core/lib/styles/index.css';
 // import { Document,Page, } from "react-pdf";
 export default function Form() {
